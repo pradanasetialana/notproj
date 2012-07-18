@@ -31,5 +31,6 @@ error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
 	echo 'POST : '.$_POST['op'].'<br />';
 ?>
 
-*/
+
+///
 ?>
